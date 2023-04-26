@@ -1,6 +1,6 @@
 ## Hi 👋
 
-This is my learning record for the Machine Learning with Graphs in Stanford.
+This is a fork of MartinLwx's work on the Machine Learning with Graphs in Stanford.
 
 The official site: <https://web.stanford.edu/class/cs224w/>
 
@@ -10,14 +10,20 @@ The official site: <https://web.stanford.edu/class/cs224w/>
 
 🏷 && ⌨️: https://web.stanford.edu/class/cs224w/
 
+## Progress track
+- [/] 1. Introduction
+* https://www.youtube.com/watch?v=aBHC6xzx9YI&ab_channel=StanfordOnline
+
+
+
 ## Colabs
 
-- [x] [Colab 0](./CS224W_Colab_0.ipynb)
-- [x] [Colab 1](./CS224W_Colab_1.ipynb)
-- [x] [Colab 2](./CS224W_Colab_2.ipynb)
-- [x] [Colab 3](./CS224W_Colab_3.ipynb)
-- [x] [Colab 4](./CS224W_Colab_4.ipynb)
-- [x] [Colab 5](./CS224W_Colab_5.ipynb)
+- [ ] [Colab 0](./CS224W_Colab_0.ipynb)
+- [ ] [Colab 1](./CS224W_Colab_1.ipynb)
+- [ ] [Colab 2](./CS224W_Colab_2.ipynb)
+- [ ] [Colab 3](./CS224W_Colab_3.ipynb)
+- [ ] [Colab 4](./CS224W_Colab_4.ipynb)
+- [ ] [Colab 5](./CS224W_Colab_5.ipynb)
 
 ## Highlights
 
@@ -30,6 +36,6 @@ The official site: <https://web.stanford.edu/class/cs224w/>
 
 ## Looking for answers for other cs-courses ?
 
-:hugs: Welcome to check my repo [cs-courses](https://github.com/MartinLwx/cs-courses). 
+:hugs: Welcome to check my repo [cs-courses](https://github.com/MartinLwx/cs-courses).
 
 Join me and enjoy the journey :rocket:
