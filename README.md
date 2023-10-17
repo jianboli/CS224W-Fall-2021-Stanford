@@ -3,6 +3,7 @@
 This is a fork of MartinLwx's work on the Machine Learning with Graphs in Stanford.
 
 The official site: <https://web.stanford.edu/class/cs224w/>
+Please check the current page: <https://github.com/jianboli/CS224W-Fall-2021-Stanford>
 
 ## Resources
 
