@@ -1,9 +1,8 @@
 ## Hi 👋
 
-This is a fork of MartinLwx's work on the Machine Learning with Graphs in Stanford.
+[This](https://github.com/jianboli/CS224W-Fall-2021-Stanford) is a fork of MartinLwx's work on the Machine Learning with Graphs in Stanford.
 
 The official site: <https://web.stanford.edu/class/cs224w/>
-Please check the current page: <https://github.com/jianboli/CS224W-Fall-2021-Stanford>
 
 ## Resources
 
@@ -16,7 +15,7 @@ Please check the current page: <https://github.com/jianboli/CS224W-Fall-2021-Sta
   * 1.1 Why Graphs
   * 1.2 Applications of Graph ML
   * 1.3 Choice of Graph Representation
-- [/] 2. Node embeddings
+- [|] 2. Node embeddings
 * [CS224W: Machine Learning with Graphs | 2021 | Lecture 2.1 - Traditional Feature-based Methods: Node](https://www.youtube.com/watch?v=3IS7UhNMQ3U&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4&t=1s&pp=iAQB)
 
 
