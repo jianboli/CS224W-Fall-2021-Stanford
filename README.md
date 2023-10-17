@@ -11,8 +11,12 @@ The official site: <https://web.stanford.edu/class/cs224w/>
 🏷 && ⌨️: https://web.stanford.edu/class/cs224w/
 
 ## Progress track (you tube [playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn))
-- [/] 1. Introduction
-* https://www.youtube.com/watch?v=P-m1Qv6-8cI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=3&t=5s&pp=iAQB
+- [X] 1. Introduction
+  * 1.1 Why Graphs
+  * 1.2 Applications of Graph ML
+  * 1.3 Choice of Graph Representation
+- [/] 2. Node embeddings
+* [CS224W: Machine Learning with Graphs | 2021 | Lecture 2.1 - Traditional Feature-based Methods: Node](https://www.youtube.com/watch?v=3IS7UhNMQ3U&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4&t=1s&pp=iAQB)
 
 
 ## Colabs
