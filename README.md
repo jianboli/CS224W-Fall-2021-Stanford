@@ -15,7 +15,7 @@ The official site: <https://web.stanford.edu/class/cs224w/>
   * 1.1 Why Graphs
   * 1.2 Applications of Graph ML
   * 1.3 Choice of Graph Representation
-- [ ] 2. Node embeddings
+- [ ] 2. Node embeddings (In the 2023 class, this charpter has been deleted)
   * 2.1 Traditional Feature-based Methods: Node
     - Degree:
     - Centrality:
@@ -36,6 +36,7 @@ The official site: <https://web.stanford.edu/class/cs224w/>
   * 2.2 Traditional Feature-based Methods: Link
   * [Lecture 2.2 - Traditional Feature-based Methods: Link](https://www.youtube.com/watch?v=4dVwlE9jYxY&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=5)
 
+- []
 
 ## Colabs
 
