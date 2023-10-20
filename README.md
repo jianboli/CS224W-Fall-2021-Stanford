@@ -16,7 +16,25 @@ The official site: <https://web.stanford.edu/class/cs224w/>
   * 1.2 Applications of Graph ML
   * 1.3 Choice of Graph Representation
 - [ ] 2. Node embeddings
-* [CS224W: Machine Learning with Graphs | 2021 | Lecture 2.1 - Traditional Feature-based Methods: Node](https://www.youtube.com/watch?v=3IS7UhNMQ3U&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4&t=1s&pp=iAQB)
+  * 2.1 Traditional Feature-based Methods: Node
+    - Degree:
+    - Centrality:
+        - Eignvector centrality:
+            - my centrality is a constant times the average centrality of my neighors
+            - the centrality is then a eigen vector
+        - Betweenness centrality:
+            - how many shortest parths of any two pair of nodes goes through me
+        - Closeness centrality:
+            - 1/(sum of my shortest distance to all the other nodes)
+            - Question: the farest nodes might dominants the sum, deminish the impact of local structure
+    - Clustering coefficient:
+        - density of edges among my neighor nodes (how my direct friends knows each other)
+        - count of triangles - graphlets
+    - Graphlets:
+        - dispit the same pattern, my location could lead to different graphlets, e.g. in the graphlet, 1 <-> 2 <-> 3, if I am 1 is different from I am 2
+        - Graphlet degree vector (GDV)
+  * 2.2 Traditional Feature-based Methods: Link
+  * [Lecture 2.2 - Traditional Feature-based Methods: Link](https://www.youtube.com/watch?v=4dVwlE9jYxY&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=5)
 
 
 ## Colabs
