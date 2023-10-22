@@ -11,8 +11,11 @@ The official site: <https://web.stanford.edu/class/cs224w/>
 🏷 && ⌨️: https://web.stanford.edu/class/cs224w/
 
 ## Progress track
-- [/] 1. Introduction
-* https://www.youtube.com/watch?v=aBHC6xzx9YI&ab_channel=StanfordOnline
+-[/] 1. Introduction (https://web.stanford.edu/class/cs224w/slides/01-intro.pdf)
+    1.1 Why Graphs: https://www.youtube.com/watch?v=JAB_plj2rbA&ab_channel=StanfordOnline
+    1.2 Applications of Grapha ML: https://www.youtube.com/watch?v=aBHC6xzx9YI&ab_channel=StanfordOnline
+    1.3 Choice of Graph Representations: https://www.youtube.com/watch?v=P-m1Qv6-8cI&ab_channel=StanfordOnline
+-[ ] 2.
 
 
 
