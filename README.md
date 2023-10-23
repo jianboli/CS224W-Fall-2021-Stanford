@@ -11,12 +11,13 @@ The official site: <https://web.stanford.edu/class/cs224w/>
 🏷 && ⌨️: https://web.stanford.edu/class/cs224w/
 
 ## Progress track
-- [X] 1. Introduction
-  * 1.1 Why Graphs
-  * 1.2 Applications of Graph ML
-  * 1.3 Choice of Graph Representation
+
+- [X] 1. Introduction (https://web.stanford.edu/class/cs224w/slides/01-intro.pdf)
+  - 1.1 Why Graphs: [video](https://www.youtube.com/watch?v=JAB_plj2rbA&ab_channel=StanfordOnline)
+  - 1.2 Applications of Grapha ML: [video](https://www.youtube.com/watch?v=aBHC6xzx9YI&ab_channel=StanfordOnline)
+  - 1.3 Choice of Graph Representations: [video](https://www.youtube.com/watch?v=P-m1Qv6-8cI&ab_channel=StanfordOnline)
 - [ ] 2. Node embeddings (In the 2023 class, this charpter has been deleted)
-  * 2.1 Traditional Feature-based Methods: Node
+  - 2.1 Traditional Feature-based Methods: Node
     - Degree:
     - Centrality:
         - Eignvector centrality:
@@ -33,10 +34,10 @@ The official site: <https://web.stanford.edu/class/cs224w/>
     - Graphlets:
         - dispit the same pattern, my location could lead to different graphlets, e.g. in the graphlet, 1 <-> 2 <-> 3, if I am 1 is different from I am 2
         - Graphlet degree vector (GDV)
-  * 2.2 Traditional Feature-based Methods: Link
-  * [Lecture 2.2 - Traditional Feature-based Methods: Link](https://www.youtube.com/watch?v=4dVwlE9jYxY&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=5)
+  - 2.2 Traditional Feature-based Methods: Link
+    - CS224W: Machine Learning with Graphs | 2021 | Lecture 2.1 - Traditional Feature-based Methods: Node [video](https://www.youtube.com/watch?v=3IS7UhNMQ3U&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4&t=1s&pp=iAQB)
+    * Lecture 2.2 - Traditional Feature-based Methods: [video](https://www.youtube.com/watch?v=4dVwlE9jYxY&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=5)
 
-- []
 
 ## Colabs
 
