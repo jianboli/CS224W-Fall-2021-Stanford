@@ -1,0 +1,45 @@
+  # Traditional Methods for Machine Learning in Graphs
+  - 2.1 Traditional Feature-based Methods: Node [video](https://www.youtube.com/watch?v=3IS7UhNMQ3U&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4&t=1s&pp=iAQB)
+    - Degree:
+    - Centrality:
+      - Eignvector centrality:
+        - my centrality is a constant times the average centrality of my neighors
+        - the centrality is then a eigen vector
+      - Betweenness centrality:
+        - how many shortest parths of any two pair of nodes goes through me
+      - Closeness centrality:
+        - 1/(sum of my shortest distance to all the other nodes)
+        - Question: the farest nodes might dominants the sum, deminish the impact of local structure
+    - Clustering coefficient:
+      - density of edges among my neighor nodes (how my direct friends knows each other)
+      - count of triangles - graphlets
+    - Graphlets:
+      - dispit the same pattern, my location could lead to different graphlets, e.g. in the graphlet, 1 <-> 2 <-> 3, if I am 1 is different from I am 2
+      - Graphlet degree vector (GDV)
+  - 2.2 Link Prediction Task and Features  [video](https://www.youtube.com/watch?v=4dVwlE9jYxY&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=5)
+    - Two type of the task
+      - Links missing at randim
+      - Links over time
+    - Link level features:
+      - Distance based features
+      - Local neighorhood overlap
+        - Common neighbors
+        - Jaccard's coefficient (IoU)
+          - it counts how popular these two nodes are
+        - Adamic-Adar index
+          - Sometime works very well, it counts how popular the common neighors are:
+            $$\sum_{u\in N(v_1)\cap N(v_2)}\frac{1}{\log(k_u)}$$
+      - Global neighorhood overlap
+        - Why?
+          - for two nodes > two hops away, local neighorhood overlap will always = 0
+        - Katz index:
+          - \# of path of all length between a given two pair
+          - Can be calcuated with power of adjencency matrix $A$
+          -
+  - 2.3 Graph-Level Features and Graph Kernels [video](https://www.youtube.com/watch?v=buzsHTa4Hgs&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=6&ab_channel=StanfordOnline)
+    - Kernel methods
+      - Graphlet kernel
+        - Overall, it is expensive
+        - Counting size-$k$ graphlet for a graph with size $n$ taks $n^k$,
+        - If a graph's node degree is bounded by $d$, an $O(nd^{k-1})$ alogrithm exists to count all the graphlet
+      - Weisfeiler-Lehman kernel
