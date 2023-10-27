@@ -1,3 +1,9 @@
 # Node Embeddings
   - 3.1 Node embeddings: encoder and decoder [video](https://www.youtube.com/watch?v=rMq21iY61SE&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=7)
   - 3.2 Random walk approaches for node embeddings [video](https://www.youtube.com/watch?v=Xv0wRy66Big&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=8)
+    - The dot product of the embedding approximate the probability of visting $v$ from $u$ using RW stratergy $R$ $z_u^Tz_v \sim P_R(v|u)$
+    - Negative sampling
+    - Stochastic gradient descent
+    - Node2vec
+      - Biased walks
+  - 3.3 Embedding entire graphs [video](https://www.youtube.com/watch?v=eliMLfJeu7A&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=9&ab_channel=StanfordOnline)

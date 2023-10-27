@@ -24,11 +24,10 @@ The official site: <https://web.stanford.edu/class/cs224w/>
   - [notes](notes/03-node_embeddings.md)
 
 
-
 ## Colabs
 
-- [X] [Colab 0](homework_2023/CS224W_Colab_0.ipynb)
-- [ ] [Colab 1](./CS224W_Colab_1.ipynb)
+- [X] [Colab 0](Colabs/CS224W_Colab_0.ipynb)
+- [ ] [Colab 1](Colabs/CS224W_Colab_1_2022_23.ipynb)
 - [ ] [Colab 2](./CS224W_Colab_2.ipynb)
 - [ ] [Colab 3](./CS224W_Colab_3.ipynb)
 - [ ] [Colab 4](./CS224W_Colab_4.ipynb)
