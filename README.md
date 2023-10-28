@@ -17,11 +17,16 @@ The official site: <https://web.stanford.edu/class/cs224w/>
   - [notes](notes/01-introduction.md)
 
 - [X] 2. Traditional Methods for Machine Learning in Graphs (In the 2023 class, this charpter has been deleted)
+  - [slides](slides/02-traditional-ml.pdf)
   - [notes](notes/02-traditional_feature_based_methods.md)
 
-- [ ] 3. Node Embeddings
-  - [sildes](slides/02-nodeemb.pdf)
+- [X] 3. Node Embeddings
+  - [sildes](slides/03-nodeemb.pdf)
   - [notes](notes/03-node_embeddings.md)
+
+- [ ] 4. Graph as Matrix: Pagerank, Random walks and Embeddings
+  - [sildes](slides/04-pagerank.pdf)
+  - [notes](notes/04-pagerank.md)
 
 
 ## Colabs

@@ -6,4 +6,8 @@
     - Stochastic gradient descent
     - Node2vec
       - Biased walks
-  - 3.3 Embedding entire graphs [video](https://www.youtube.com/watch?v=eliMLfJeu7A&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=9&ab_channel=StanfordOnline)
+  - 3.3 Embedding entire graphs or subgraph [video](https://www.youtube.com/watch?v=eliMLfJeu7A&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=9&ab_channel=StanfordOnline)
+  - aggregate the node embeddings
+  - virtual nodes
+  - anonymous walks
+  - Learn walk embeddings
