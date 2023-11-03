@@ -16,7 +16,7 @@ The official site: <https://web.stanford.edu/class/cs224w/>
   - [sildes](slides/01-intro.pdf)
   - [notes](notes/01-introduction.md)
 
-- [X] 2. Traditional Methods for Machine Learning in Graphs (In the 2023 class, this charpter has been deleted)
+- [X] 2. Traditional Methods for Machine Learning in Graphs (In the 2023 class, this chapter has been removed)
   - [slides](slides/02-traditional-ml.pdf)
   - [notes](notes/02-traditional_feature_based_methods.md)
 
@@ -32,7 +32,7 @@ The official site: <https://web.stanford.edu/class/cs224w/>
 ## Colabs
 
 - [X] [Colab 0](Colabs/CS224W_Colab_0.ipynb)
-- [ ] [Colab 1](Colabs/CS224W_Colab_1_2022_23.ipynb)
+- [X] [Colab 1](Colabs/CS224W_Colab_1_2022_23.ipynb)
 - [ ] [Colab 2](./CS224W_Colab_2.ipynb)
 - [ ] [Colab 3](./CS224W_Colab_3.ipynb)
 - [ ] [Colab 4](./CS224W_Colab_4.ipynb)
