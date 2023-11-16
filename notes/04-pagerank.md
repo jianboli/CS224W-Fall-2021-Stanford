@@ -15,4 +15,12 @@
   * Google solution:
     * teleport at each step with probability $\beta$, where $\beta$ ~ 0.8, 0.9
 * 4.3 Random walk with Restarts [video](https://www.youtube.com/watch?v=HbzQzUaJ_9I&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=12&ab_channel=StanfordOnline)
-  * --
+  * PageRank: random teleport to any nodes
+  * Personalized PageRank: teleport to subset nodes $S$
+  * Random walks with Restarts: teleport to the starting nodes $S={Q}$
+* 4.4 Matrix factorization and node embeddings
+  * Node2vec can also be formulated as a metrics factorization!
+  * Limitation of node embedding via matrix factorization and random walks
+    * When new node joined, we need to recalculate the embeddings
+    * Cannot capture structure similarity
+    * Cannot unitize node, edge, and graph features

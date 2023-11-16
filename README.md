@@ -24,9 +24,13 @@ The official site: <https://web.stanford.edu/class/cs224w/>
   - [sildes](slides/03-nodeemb.pdf)
   - [notes](notes/03-node_embeddings.md)
 
-- [ ] 4. Graph as Matrix: Pagerank, Random walks and Embeddings
+- [X] 4. Graph as Matrix: Pagerank, Random walks and Embeddings
   - [sildes](slides/04-pagerank.pdf)
   - [notes](notes/04-pagerank.md)
+
+- [ ] 5. Label Propagation for Node Classification
+  - [sildes](slides/05-message.pdf)
+  - [notes](notes/05-message.md)
 
 
 ## Colabs
