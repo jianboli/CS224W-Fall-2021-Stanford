@@ -8,7 +8,9 @@ The official site: <https://web.stanford.edu/class/cs224w/>
 
 🎥: https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
 
-🏷 && ⌨️: https://web.stanford.edu/class/cs224w/
+🏷 && ⌨️: 
+* realtime https://web.stanford.edu/class/cs224w/
+* year 2021: https://snap.stanford.edu/class/cs224w-2021/
 
 ## Progress track and notes
 
